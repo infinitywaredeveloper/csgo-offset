@@ -1,0 +1,26 @@
+GetInaccuracy: 482
+GetSpread: 452
+GetNameVirt: 386
+GetCSWpnData: 460
+UpdateAccuracyPenalty: 483
+UpdateClientAnimation: 223
+SelectItem: 329
+IsPlayer: 157
+IsWeapon: 165
+ActiveWeapon: 267
+GetShotPos: 284
+GetEyePos: 168
+SetLocalViewAngles: 372
+UpdateCollisionBounds: 339
+GetWeaponName: 385
+GetEyePosition: 284
+GetWeaponSubType: 279
+GetObserverTarget: 293
+DoExtraBonesProcessing: 197
+BuildTransformations: 188 / 189
+StandardBlendingRules: 204
+PreThink: 315
+ 
+GetAnimOverlays = 0x2990
+GetWeaponName = 0x1BC
+m_Collision(or Collideable) = 0x320
