@@ -1,4 +1,5 @@
-GetInaccuracy: 482
+------------------------------------
+GetInaccuracy: 482             
 GetSpread: 452
 GetNameVirt: 386
 GetCSWpnData: 460
@@ -24,3 +25,4 @@ PreThink: 315
 GetAnimOverlays = 0x2990
 GetWeaponName = 0x1BC
 m_Collision(or Collideable) = 0x320
+------------------------------------
